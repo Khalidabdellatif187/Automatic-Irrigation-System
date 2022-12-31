@@ -40,7 +40,7 @@ I will tell you how the code of Sensor class work </br></br>
 First : we must check if the sensor is a vailable or not and we assume that is available </br>
 If the sensor is not available we send a response message that the sensor not found </br> </br>
 
-Second : Sensor will check if the plots of land exist in Rest-Api and if they are existed </br></br>
+Second : Sensor will retrieve details of plots from rest-api </br></br>
 Sensor will start irrigation of land at specific time of the day </br></br>
 note : the duration of irrigation is <strong> five seconds </strong>  </br></br>
 after end of irrigation sensor will send a message that the irrigation is finished at a specific time </br></br>
