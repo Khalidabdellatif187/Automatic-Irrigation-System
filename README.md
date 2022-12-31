@@ -3,7 +3,7 @@
 # Objective
 It is a simple automatic airrigation system of plots of lands need to be irrigated automatically </br>
 By sending a signls to a sensor and sensor will recieve the request and irrigation start  </br>
-we will make crud operations of plots of lands and thier time slots (start,Duration of irrigation and end of irrigation) 
+we will make crud operations of plots of lands and their time slots (start,Duration of irrigation and end of irrigation) 
 
 
 # installation
