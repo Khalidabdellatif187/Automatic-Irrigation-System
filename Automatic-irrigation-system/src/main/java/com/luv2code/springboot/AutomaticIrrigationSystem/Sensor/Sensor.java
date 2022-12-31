@@ -57,7 +57,7 @@ public class Sensor {
 			
 			   } else {
 			
-			throw new RuntimeException("The sensor is not available");
+			throw new RuntimeException("The sensor is not available and the system need to be implemented");
 		}
 		
 		
